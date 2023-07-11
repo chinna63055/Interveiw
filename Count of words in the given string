@@ -1,7 +1,7 @@
 we have take a String s="java is a programing language";
 and we have find number of word in the given sentence
 
-public class A {
+public class wordCount {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
